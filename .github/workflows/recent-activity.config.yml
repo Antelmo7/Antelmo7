@@ -1,0 +1,7 @@
+settings:
+  username: "Antelmo7"
+  commit_msg: "⚡ Update README with recent activity"
+  max_lines: 5
+  readme_file: "./README.md"
+  disabled_events: 
+    - "comments"
