@@ -12,5 +12,4 @@
 <!--RECENT_ACTIVITY:start-->
 1. ⬆️ Pushed undefined commit(s) to [Antelmo7/expense-tracker-api](https://github.com/Antelmo7/expense-tracker-api)<br>
 2. ⬆️ Pushed undefined commit(s) to [Antelmo7/expense-tracker-api](https://github.com/Antelmo7/expense-tracker-api)<br>
-3. ⬆️ Pushed undefined commit(s) to [Antelmo7/todo-list-api](https://github.com/Antelmo7/todo-list-api)<br>
 <!--RECENT_ACTIVITY:end-->
