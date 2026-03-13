@@ -10,6 +10,4 @@
 
 ### :zap: Mi actividad reciente
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed undefined commit(s) to [Antelmo7/expense-tracker-api](https://github.com/Antelmo7/expense-tracker-api)<br>
-2. ⬆️ Pushed undefined commit(s) to [Antelmo7/expense-tracker-api](https://github.com/Antelmo7/expense-tracker-api)<br>
 <!--RECENT_ACTIVITY:end-->
