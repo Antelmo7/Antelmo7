@@ -11,5 +11,4 @@
 ### :zap: Mi actividad reciente
 <!--RECENT_ACTIVITY:start-->
 1. ⭐ Starred [spotDL/spotify-downloader](https://github.com/spotDL/spotify-downloader)<br>
-2. ⭐ Starred [public-apis/public-apis](https://github.com/public-apis/public-apis)<br>
 <!--RECENT_ACTIVITY:end-->
