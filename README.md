@@ -2,10 +2,10 @@
 
 ### Skills & Techologies
 
-- Languages: Javascript, C#
-- Databases: SQL, MySQL, PostgreSQL, Firebase Firestore, Redis
-- Frontend: React.js, Tailwind CSS
-- Backend: Node.js, Express.js
+- Languages: Javascript, C#, TypeScript
+- Databases: SQL, MySQL, PostgreSQL, Firebase Firestore, MSSQL, Redis
+- Frontend: React.js, Tailwind CSS, Sass
+- Backend: Node.js, Express.js, NestJS
 - Tools: Docker, Git, GitHub, AWS (S3, Rekognition)
 
 ### :zap: Mi actividad reciente
