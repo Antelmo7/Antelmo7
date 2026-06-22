@@ -12,5 +12,4 @@
 <!--RECENT_ACTIVITY:start-->
 1. ⬆️ Pushed undefined commit(s) to [Antelmo7/openapi](https://github.com/Antelmo7/openapi)<br>
 2. ⬆️ Pushed undefined commit(s) to [Antelmo7/openapi](https://github.com/Antelmo7/openapi)<br>
-3. ⬆️ Pushed undefined commit(s) to [Antelmo7/Antelmo7](https://github.com/Antelmo7/Antelmo7)<br>
 <!--RECENT_ACTIVITY:end-->
