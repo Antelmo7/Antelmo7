@@ -10,5 +10,4 @@
 
 ### :zap: Mi actividad reciente
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed undefined commit(s) to [Antelmo7/openapi](https://github.com/Antelmo7/openapi)<br>
 <!--RECENT_ACTIVITY:end-->
