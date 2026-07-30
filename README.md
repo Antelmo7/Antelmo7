@@ -6,7 +6,7 @@
 - Databases: SQL, MySQL, PostgreSQL, Firebase Firestore, MSSQL, Redis
 - Frontend: React.js, Tailwind CSS, Sass
 - Backend: Node.js, Express.js, NestJS
-- Tools: Docker, Git, GitHub, AWS (S3, Rekognition)
+- Tools: Docker, Git, GitHub, AWS (S3, Rekognition), Nginx
 
 ### :zap: Mi actividad reciente
 <!--RECENT_ACTIVITY:start-->
