@@ -11,5 +11,4 @@
 ### :zap: Mi actividad reciente
 <!--RECENT_ACTIVITY:start-->
 1. ⬆️ Pushed undefined commit(s) to [Antelmo7/Antelmo7](https://github.com/Antelmo7/Antelmo7)<br>
-2. ⬆️ Pushed undefined commit(s) to [Antelmo7/csharp-datastructure](https://github.com/Antelmo7/csharp-datastructure)<br>
 <!--RECENT_ACTIVITY:end-->
