@@ -1,5 +1,7 @@
 ## Hi, I Am Antelmo Verdugo 👋
 
+Software Engineer specializing in Backend development, with professional (C#) and freelance experience (Node.js, React.js, Typescript, Docker), fast learner and curious about technology, especially Linux, FOSS and Software Architecture.
+
 ### Skills & Techologies
 
 - Languages: Javascript, C#, TypeScript
