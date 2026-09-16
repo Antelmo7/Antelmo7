@@ -12,5 +12,6 @@ Software Engineer specializing in Backend development, with professional (C#) an
 
 ### :zap: Mi actividad reciente
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed undefined commit(s) to [Antelmo7/Antelmo7](https://github.com/Antelmo7/Antelmo7)<br>
+1. ⭐ Starred [orangci/walls-catppuccin-mocha](https://github.com/orangci/walls-catppuccin-mocha)<br>
+2. ⬆️ Pushed undefined commit(s) to [Antelmo7/Antelmo7](https://github.com/Antelmo7/Antelmo7)<br>
 <!--RECENT_ACTIVITY:end-->
