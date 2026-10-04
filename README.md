@@ -14,5 +14,4 @@ Software Engineer specializing in Backend development, with professional (C#) an
 <!--RECENT_ACTIVITY:start-->
 1. ⬆️ Pushed undefined commit(s) to [Antelmo7/noc-cli](https://github.com/Antelmo7/noc-cli)<br>
 2. ⭐ Starred [orangci/walls-catppuccin-mocha](https://github.com/orangci/walls-catppuccin-mocha)<br>
-3. ⬆️ Pushed undefined commit(s) to [Antelmo7/Antelmo7](https://github.com/Antelmo7/Antelmo7)<br>
 <!--RECENT_ACTIVITY:end-->
