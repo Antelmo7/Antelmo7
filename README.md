@@ -12,5 +12,4 @@ Software Engineer specializing in Backend development, with professional (C#) an
 
 ### :zap: Mi actividad reciente
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed undefined commit(s) to [Antelmo7/noc-cli](https://github.com/Antelmo7/noc-cli)<br>
 <!--RECENT_ACTIVITY:end-->
